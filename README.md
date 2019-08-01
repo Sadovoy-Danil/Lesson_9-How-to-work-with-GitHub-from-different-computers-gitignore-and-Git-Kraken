@@ -8,7 +8,9 @@
 2) <p>Нажмите на кнопку 'clone or download' </p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "/img/btn_clone.png">
 
-3) <p>Скачайте архив / Скопируйте ссылку и воспользуйтесь терминалом:</p><img src = "/img/git_download_zip.png">
+3) <p>Скачайте архив / Скопируйте ссылку и воспользуйтесь терминалом:
+  - 
+</p><img src = "/img/git_download_zip.png" align = 'left'>
 
 <hr>
 
