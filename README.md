@@ -5,6 +5,11 @@
 1) Скиньте ваш проект на [_**GitHub**_](https://github.com) в отдельный репозиторий
 > _Можете посмотреть предыдущий урок_
 
+2) <p>Нажмите на кнопку 'clone or download' </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "/img/btn_clone.png">
+
 <hr>
 
 _**Словарь**_
+
+[_Git Kraken_]() — 
