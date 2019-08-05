@@ -9,8 +9,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "/img/btn_clone.png">
 
 3) <p>Скачайте архив / Скопируйте ссылку и воспользуйтесь терминалом:
-  - 
-</p><img src = "/img/git_download_zip.png" align = 'left'>
+   <img src = "/img/git_download_zip.png" align = 'left'>
+  
+  </br> копируем ссылку репозитория
+  
+  </br> заходим в терминал нужной нам папки
+  
+  </p>
 
 <hr>
 
