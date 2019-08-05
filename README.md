@@ -9,7 +9,7 @@
 </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "/img/btn_clone.png">
 
 **3) Скачайте архив / Скопируйте ссылку и воспользуйтесь терминалом:**
-   <p> <img src = "/img/git_download_zip.png" align = 'left'>
+   <p> <img src = "/img/git_download_zip.png" align = 'left'><br>
    
   <hr>
   
