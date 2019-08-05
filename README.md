@@ -6,10 +6,10 @@
 > _Можете посмотреть [предыдущий урок](https://github.com/Sadovoy-Danil/Lesson_8-Learning-to-work-with-the-Git-version-control-system-and-the-GitHub-service.git)_
 
 **2) Нажмите на кнопку 'clone or download'**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "/img/btn_clone.png">
+</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "/img/btn_clone.png">
 
-**3)** <p>Скачайте архив / Скопируйте ссылку и воспользуйтесь терминалом:
-   <img src = "/img/git_download_zip.png" align = 'left'>
+**3) Скачайте архив / Скопируйте ссылку и воспользуйтесь терминалом:**
+   <p> <img src = "/img/git_download_zip.png" align = 'left'>
   
    > > _Копируем ссылку репозитория_
   
