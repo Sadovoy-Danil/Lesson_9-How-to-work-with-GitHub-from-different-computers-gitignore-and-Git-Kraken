@@ -2,13 +2,24 @@
 
 В этом видеоуроке мы научились, как работать с репозиторием с разных компьютеров:
 
-1) Скиньте ваш проект на [_**GitHub**_](https://github.com) в отдельный репозиторий
-> _Можете посмотреть предыдущий [урок](https://github.com/Sadovoy-Danil/Lesson_8-Learning-to-work-with-the-Git-version-control-system-and-the-GitHub-service.git)_
+**1) Скиньте ваш проект на [_GitHub_](https://github.com) в отдельный репозиторий**
+> _Можете посмотреть [предыдущий урок](https://github.com/Sadovoy-Danil/Lesson_8-Learning-to-work-with-the-Git-version-control-system-and-the-GitHub-service.git)_
 
-2) <p>Нажмите на кнопку 'clone or download' </p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "/img/btn_clone.png">
+**2) Нажмите на кнопку 'clone or download'**
+</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "/img/btn_clone.png">
 
-3) <p>Скачайте архив / Скопируйте ссылку и воспользуйтесь терминалом:</p><img src = "/img/git_download_zip.png">
+**3) Скачайте архив / Скопируйте ссылку и воспользуйтесь терминалом:**
+   <p> <img src = "/img/git_download_zip.png" align = 'left'>
+  
+   > > _Копируем ссылку репозитория_
+  
+   > > _Заходим в терминал нужной нам папки_
+   
+   > > _Прописуем: **«** git + ' ' + clone + ' ' + 'ССЫЛКА НА ВАШ РЕПОЗИТОРИЙ' + ' ' + 'НАЗВАНИЕ ПАПКИ, В КОТОРУЮ СКОПИРУЕТСЯ ВАШ ПРОЕКТ' **»**_
+  
+  </p>
+  
+ </br> **Если мы клонируем локальный репозиторий, то он уже связан с удалёным репозиторием!** (_клонируем с GitHub_)
 
 <hr>
 
